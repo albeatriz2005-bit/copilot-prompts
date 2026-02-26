@@ -4,7 +4,7 @@
     src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
     width="100px" 
   />
-  <h1>Plano de Desenvolvimento de Carreira - DIO</h1>
+  <h1>Plano de Roteiro de Carreira - DIO</h1>
 </div>
 
 ## 🎯 Contexto do Projeto
