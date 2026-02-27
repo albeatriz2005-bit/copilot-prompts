@@ -4,104 +4,50 @@
     src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
     width="100px" 
   />
-  <h1>Plano de Roteiro de Carreira - DIO</h1>
+  <h1># ONE - Entrevistador e Planejador de Carreira TECH</h1>
 </div>
 
-## 🎯 Contexto do Projeto
 
-Este projeto foi desenvolvido no **Bootcamp CAIXA — Inteligência Artificial na Prática**, com o objetivo de explorar como a tecnologia pode apoiar profissionais na valorização de suas competências.  
-A proposta é transformar habilidades pessoais em soluções aplicáveis, conectando-as às necessidades reais do mercado e criando oportunidades de crescimento e monetização.
 
----
+💻 **Sobre o Projeto**  
+Este projeto foi desenvolvido como parte de um dos desafios do Bootcamp CAIXA — Inteligência Artificial na Prática, com o tema *“IA Mentor de Carreira: Descubra seu futuro em tech”*.  
 
-## 🛠️ Etapas do Projeto
+A proposta é criar um mentor de carreira personalizado por meio de dois prompts que simulam agentes distintos:  
 
-O plano foi estruturado em três fases principais:
+- **Agente 1 — Entrevistador**  
+Responsável por realizar sete perguntas para identificar o perfil do usuário na área de tecnologia e sugerir três possíveis carreiras em tech.  
 
-### 1. Mapeamento de Competências
-
-Nesta fase inicial, organizamos nossas habilidades em diferentes dimensões:
-
-**Competências Técnicas**
-- Excel  
-- Agilidade de resposta  
-- Capacidade de multitarefa  
-- Aprendizado rápido  
-
-**Competências Interpessoais**
-- Comunicação clara  
-- Didática e ensino  
-- Colaboração em equipe  
-- Gestão de tempo e prioridades  
-
-**Competências Criativas**
-- Customização de roupas  
-- Penteados  
-- Maquiagem artística  
-
-**💡 Papel da IA nesta etapa:**  
-Ferramentas como **Copilot, Gemini, ChatGPT** e outras podem apoiar na identificação de competências, analisando currículos, perfis profissionais e até interações em redes sociais.  
-
-Exemplos de comandos úteis:
-- "Liste habilidades relacionadas à organização de tarefas."  
-- "Sugira competências ligadas ao ensino."  
-- "Transforme este texto em tópicos."  
+- **Agente 2 — Planejador de Carreira Tech**  
+Analisa as respostas do Agente 1 e, com base na escolha final do usuário, cria um roadmap de estudos para orientar os próximos passos rumo à carreira escolhida.  
 
 ---
 
-### 2. Conexão com o Mercado
+## 🎯 Dinâmica  
 
-Nesta etapa, analisamos como nossas competências podem se alinhar às necessidades externas. Algumas reflexões úteis incluem:
+O **Agente 1** coletou suas informações:  
+- **Carreira escolhida:** Cientista de Dados / Machine Learning  
+- **Disponibilidade:** 18 horas por semana  
+- **Experiência:** zero  
+- **Objetivo:** crescimento  
+- **Preferência:** pessoas  
+- **Interesses:** Python e Inteligência Artificial  
 
-- Essa habilidade pode gerar impacto positivo em empresas ou pessoas?  
-- Há nichos ou segmentos específicos que valorizam esse tipo de competência?  
-- Como posso diferenciar minha oferta em relação a outros profissionais?  
-- Essa habilidade pode ser combinada com outra para criar uma solução mais completa?  
-- Existe potencial de crescimento ou inovação associado a essa competência?  
+O **Agente 2** utilizou essas informações para montar um plano completo de **120 dias**, incluindo:  
+- Visão do dia a dia da carreira  
+- Mapa de skills essenciais e complementares  
+- Roadmap de estudos detalhado (fundamentos → prática → ML avançado → projetos e entrevistas)  
+- Projetos de portfólio publicados no GitHub  
+- Roteiro de entrevistas com perguntas comuns e respostas estruturadas  
+- Trilha DIO recomendada (*Formação Cientista de Dados*)  
 
----
-
-### 3. Estratégias de Entrega de Valor
-
-Depois de identificar como nossas competências podem ser aplicadas, o próximo passo é estruturar formas criativas de oferecê-las. Algumas alternativas incluem:
-
-- **Consultoria personalizada**  
-  Apoiar pessoas ou pequenos negócios com orientações práticas em áreas específicas. 
-
-- **Comunidades e networking**  
-  Participar de grupos profissionais ou fóruns para divulgar serviços e trocar experiências.  
-
-- **Eventos e workshops**  
-  Organizar encontros presenciais ou virtuais para compartilhar conhecimento e atrair potenciais clientes.  
-
-- **Projetos colaborativos**  
-  Desenvolver soluções em parceria com outros profissionais, ampliando o alcance e a diversidade da oferta.  
-
-- **Presença digital estratégica**  
-  Construir uma marca pessoal em blogs, newsletters ou podcasts, além das redes sociais tradicionais.  
+Embora o desafio seja voltado para tecnologia, os prompts podem ser adaptados para qualquer nicho de mercado. Além disso, é possível integrar os dois agentes em um único fluxo, caso seja mais conveniente.  
 
 ---
 
-## 🤖 Apoio da Inteligência Artificial
-
-A IA pode acelerar a execução das ideias, oferecendo suporte em tarefas como:
-
-- Criação de textos para redes sociais e descrições de serviços  
-- Modelos de contrato, propostas comerciais e checklists  
-- Sugestões de nomes para serviços ou marcas pessoais  
-- Planejamento de conteúdo para atrair clientes  
+## 📚 Ferramentas Utilizadas  
+- **GitHub** (para portfólio e versionamento)  
+- **Copilot** (para planejamento e apoio no roadmap)  
 
 ---
 
-## 📂 Estrutura do Repositório
-
-- `docs/` → Documentação e anotações  
-- `skills/` → Listas de competências por categoria  
-- `market-analysis/` → Reflexões sobre demanda de mercado  
-- `portfolio/` → Exemplos práticos e protótipos  
-
----
-
-## 🏆 Resultado Esperado
-
-O **Plano de Desenvolvimento de Carreira** busca ser uma ferramenta prática para transformar talentos individuais em oportunidades reais de geração de renda, utilizando a tecnologia como parceira estratégica.
+✨ Dessa forma, o projeto conecta sua escolha de carreira com um plano prático e estruturado, garantindo que em 120 dias você tenha não apenas aprendido os fundamentos, mas também construído projetos reais e um portfólio sólido para entrevistas.
